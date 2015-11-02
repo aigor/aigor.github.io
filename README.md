@@ -1,5 +1,5 @@
 # aigor.github.io
-This is aigor development blog.
+This is aigor development blog. Adress: http://aigor.github.io
 
 This blog uses Jekyll [https://github.com/jekyll/jekyll] engine.
 
