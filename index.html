@@ -9,6 +9,12 @@ title: Aigor's dev blog • Small notes about software development
 </head>
 
 <body>
-
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
 </body>
 </html>
